@@ -1,0 +1,17 @@
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/bin/Debug/net5.0/Bank3Tier.Services.deps.json
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/bin/Debug/net5.0/Bank3Tier.Services.dll
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/bin/Debug/net5.0/ref/Bank3Tier.Services.dll
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/bin/Debug/net5.0/Bank3Tier.Services.pdb
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/bin/Debug/net5.0/Bank3Tier.Core.dll
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/bin/Debug/net5.0/Bank3Tier.Data.dll
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/bin/Debug/net5.0/Bank3Tier.Data.pdb
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/bin/Debug/net5.0/Bank3Tier.Core.pdb
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/Bank3Tier.Services.csprojAssemblyReference.cache
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/Bank3Tier.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/Bank3Tier.Services.AssemblyInfoInputs.cache
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/Bank3Tier.Services.AssemblyInfo.cs
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/Bank3Tier.Services.csproj.CoreCompileInputs.cache
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/Bank3Tier.Services.csproj.CopyComplete
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/Bank3Tier.Services.dll
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/ref/Bank3Tier.Services.dll
+/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Services/obj/Debug/net5.0/Bank3Tier.Services.pdb

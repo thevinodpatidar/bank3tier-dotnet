@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{89724606-23FD-43E9-806D-9E2B58EC798A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bank3Tier.Api PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bank3Tier.Services/UserService.cs">
+    <Files>
+      <File FileName="Bank3Tier.Api/Controllers/UserController.cs" Line="107" Column="26" />
+      <File FileName="Bank3Tier.Api/Controllers/TransactionController.cs" Line="64" Column="42" />
+      <File FileName="Bank3Tier.Core/Services/ITransactionService.cs" Line="11" Column="27" />
+      <File FileName="Bank3Tier.Core/Models/Transaction.cs" Line="15" Column="25" />
+      <File FileName="Bank3Tier.Api/Resources/Transaction/SuccessTransactionResource.cs" Line="1" Column="1" />
+      <File FileName="Bank3Tier.Api/Mapping/MappingProfile.cs" Line="26" Column="70" />
+      <File FileName="Bank3Tier.Api/Resources/Transaction/TransactionResource.cs" Line="1" Column="1" />
+      <File FileName="Bank3Tier.Services/TransactionService.cs" Line="49" Column="34" />
+      <File FileName="Bank3Tier.Core/Repositories/IUserRepository.cs" Line="12" Column="20" />
+      <File FileName="Bank3Tier.Core/Repositories/ITransactionRepository.cs" Line="11" Column="27" />
+      <File FileName="Bank3Tier.Data/Repositories/TransactionRepository.cs" Line="21" Column="44" />
+      <File FileName="Bank3Tier.Core/Repositories/IRepository.cs" Line="14" Column="12" />
+      <File FileName="Bank3Tier.Data/Repositories/Repository.cs" Line="22" Column="62" />
+      <File FileName="Bank3Tier.Core/Services/IUserService.cs" Line="18" Column="1" />
+      <File FileName="Bank3Tier.Services/UserService.cs" Line="56" Column="43" />
+      <File FileName="Bank3Tier.Data/Repositories/UserRepository.cs" Line="38" Column="42" />
+      <File FileName="Bank3Tier.Data/Bank3TierDbContext.cs" Line="10" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bank3Tier" expanded="True">
+            <Node name="Bank3Tier.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Mapping" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Transaction" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Bank3Tier.Core" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Bank3Tier.Data" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Bank3Tier.Services" expanded="True">
+              <Node name="UserService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

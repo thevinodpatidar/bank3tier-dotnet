@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZS7O3fAw2kcyTKFZgz1SkOsFKKsvXIyiI0KHqC8liUITb8GM2ITmy85CFoMJJAshGeP2MCaT58fTo/yrqP77w==",
+  "success": true,
+  "projectFilePath": "/Users/vinodpatidar/Projects/Bank3Tier/Bank3Tier.Core/Bank3Tier.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/vinodpatidar/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.15/microsoft.aspnetcore.jsonpatch.3.1.15.nupkg.sha512",
+    "/Users/vinodpatidar/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.15/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.15.nupkg.sha512",
+    "/Users/vinodpatidar/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/vinodpatidar/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/vinodpatidar/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
